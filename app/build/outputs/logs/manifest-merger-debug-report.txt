@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d44585a87ea071a4aad36a861758dbba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\71f521302c0ccf417048933bbcbf11ee\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bbaa6e2f8ad16b4a1222a9e4b1cf4e14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8c36f9025a0db09409e25b97c0eb44ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\532073ec0647507c39def8ca16f6bc0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdef2c824d4cda3957243f723adf2ca6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dda9f45c0582da17845a469241db5bea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f6913d9f7a51f2ad4ef5fd4119fdcab4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\889e71fa592468cb0cf3faa4f37d8e20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\43090e3e0f6b7b64f143527ed78e92ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\59dc3897801e551aeb7506f4a971d89d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\13d10f4caab5da01bd4b500384123958\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efe26f0f145c7f0df7d9f0119f3902\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3c77bc0b5d9e7b234b8217fb9063527f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2137bcfc3459abc1f85ac8a56f7f39ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\20e7f47a55ed6c46eddce2c8b517b365\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fc94b9d164250847193d067b80aa0e0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d4b4523716a616ce4688b6fe16426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c282026863a223daa918ec796c0b41bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b7f361e8d861ab7b3b36995486abf3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\04a742fdf0081ab5eb85feb337e384b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\75a02e128619ba061523ebb71688e41e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c64298770778ac7475490c32937802\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2729b61c96d81c1ecf2a4f722b82cff6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5283996031a9467acf80146c449a2df9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e5ddd275ad31a78bf20db2fdbbc7c1fd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:3:11-65
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\71f521302c0ccf417048933bbcbf11ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\71f521302c0ccf417048933bbcbf11ee\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\20e7f47a55ed6c46eddce2c8b517b365\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\20e7f47a55ed6c46eddce2c8b517b365\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:11:13-69
+activity#com.example.guibsonoliveira.alcoolougasolina.MainActivity
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:13:9-45
+	android:name
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d44585a87ea071a4aad36a861758dbba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\d44585a87ea071a4aad36a861758dbba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\71f521302c0ccf417048933bbcbf11ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\71f521302c0ccf417048933bbcbf11ee\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bbaa6e2f8ad16b4a1222a9e4b1cf4e14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\bbaa6e2f8ad16b4a1222a9e4b1cf4e14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8c36f9025a0db09409e25b97c0eb44ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8c36f9025a0db09409e25b97c0eb44ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\532073ec0647507c39def8ca16f6bc0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\532073ec0647507c39def8ca16f6bc0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdef2c824d4cda3957243f723adf2ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bdef2c824d4cda3957243f723adf2ca6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dda9f45c0582da17845a469241db5bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\dda9f45c0582da17845a469241db5bea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f6913d9f7a51f2ad4ef5fd4119fdcab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\f6913d9f7a51f2ad4ef5fd4119fdcab4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\889e71fa592468cb0cf3faa4f37d8e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\889e71fa592468cb0cf3faa4f37d8e20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\43090e3e0f6b7b64f143527ed78e92ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\43090e3e0f6b7b64f143527ed78e92ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\59dc3897801e551aeb7506f4a971d89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\59dc3897801e551aeb7506f4a971d89d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\13d10f4caab5da01bd4b500384123958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\13d10f4caab5da01bd4b500384123958\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efe26f0f145c7f0df7d9f0119f3902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efe26f0f145c7f0df7d9f0119f3902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3c77bc0b5d9e7b234b8217fb9063527f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\3c77bc0b5d9e7b234b8217fb9063527f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2137bcfc3459abc1f85ac8a56f7f39ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2137bcfc3459abc1f85ac8a56f7f39ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\051b35cffe759c1ce9c5112274043e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\20e7f47a55ed6c46eddce2c8b517b365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\20e7f47a55ed6c46eddce2c8b517b365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fc94b9d164250847193d067b80aa0e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fc94b9d164250847193d067b80aa0e0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d4b4523716a616ce4688b6fe16426\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ab8d4b4523716a616ce4688b6fe16426\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c282026863a223daa918ec796c0b41bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c282026863a223daa918ec796c0b41bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b7f361e8d861ab7b3b36995486abf3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5b7f361e8d861ab7b3b36995486abf3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\04a742fdf0081ab5eb85feb337e384b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\04a742fdf0081ab5eb85feb337e384b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\75a02e128619ba061523ebb71688e41e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\75a02e128619ba061523ebb71688e41e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c64298770778ac7475490c32937802\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c64298770778ac7475490c32937802\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2729b61c96d81c1ecf2a4f722b82cff6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2729b61c96d81c1ecf2a4f722b82cff6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5283996031a9467acf80146c449a2df9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5283996031a9467acf80146c449a2df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e5ddd275ad31a78bf20db2fdbbc7c1fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\GuibsonOliveira\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e5ddd275ad31a78bf20db2fdbbc7c1fd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GuibsonOliveira\Dropbox\Faculdade-SI\8-Periodo\Topicos_Especiais_De_Programacao\kotlin\app\src\main\AndroidManifest.xml
